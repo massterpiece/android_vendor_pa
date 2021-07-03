@@ -1,0 +1,29 @@
+[ 
+
+    {
+        "remote":       "github",
+        "repository":   "massterpiece/device_xiaomi_tissot",
+        "target_path":  "device/xiaomi/tissot",
+        "revision":     "pa"
+    },
+        "remote":       "github",
+        "repository":   "massterpiece/device_xiaomi_msm8953-common",        
+        "target_path":  "device/xiaomi/msm8953-common",
+        "revision":     "pa"
+    },
+        "remote":       "github",
+        "repository":   "neonmicky/vendor",
+        "target_path":  "vendor/xiaomi/tissot",
+        "revision":     "tissot"
+    },
+        "remote":       "github",
+        "repository":   "neonmicky/vendor",
+        "target_path":  "vendor/xiaomi/msm8953-common",
+        "revison":      "common"
+    },
+        "remote":       "github",
+        "repository":   "neonmicky/kernel_xiaomi_tissot",
+        "target_path":  "kernel/xiaomi/msm8953",
+        "revision":     "eleven"
+    }
+]
